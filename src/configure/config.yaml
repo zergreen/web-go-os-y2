@@ -1,0 +1,8 @@
+
+mssql :
+    databaseType    : "mssql"
+    server          : "alumniserver2022.database.windows.net"
+    port            : 1433
+    user            : "AdminAlumni"
+    password        : "P@ssw0rd8436"
+    database        : "AlumiTH"
